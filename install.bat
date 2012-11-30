@@ -1,0 +1,1 @@
+ninja -C out\Release setup.exe && out\Release\setup.exe --register-dev-chrome
