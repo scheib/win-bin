@@ -1,1 +1,0 @@
-ninja -C out\Release interactive_ui_tests.exe && out\Release\interactive_ui_tests.exe --gtest_filter="FullscreenControllerUnitTest.STATE_TAB_FULLSCREEN_METRO_SNAP_TRUE_Reentrant:FullscreenControllerUnitTest.STATE_TAB_BROWSER_FULLSCREEN_METRO_SNAP_TRUE_Reentrant" 
